@@ -4,7 +4,13 @@
   "version": "1.0.0",
   "author": "Mikael Vesavuori",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "node-events",
+    "events",
+    "eventemitter",
+    "event-driven-architecture",
+    "eda"
+  ],
   "main": "lib/index.js",
   "module": "lib/index.mjs",
   "repository": {
